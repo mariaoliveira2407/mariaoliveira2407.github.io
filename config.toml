@@ -1,8 +1,7 @@
-
-publishDir              = ""
-baseurl                 = "https://mariaoliveira2407.github.io"               # Your domain name. Must end with "/"
-languageCode            = "en-us"
-title                   = "Maria"
+publishDir=""
+baseurl                 = "mariaoliveira2407.github.io/"               # Your domain name. Must end with "/"
+languageCode            = "pt-br"
+title                   = "Maria Tereza N. Oliveira"
 theme = "hugo-theme-sam"
 pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
@@ -15,7 +14,7 @@ pygmentsCodefences      = true
     homepage            = "main"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = true                          # Allow links to the full size images
-    footerText          = "Call me Sam, a theme for Hugo."
+    footerText          = "A vida é desafio."
 
 # Metadata
     description         = "A new Hugo site."            # Max 160 characters show in search results
@@ -23,14 +22,20 @@ pygmentsCodefences      = true
     primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
+    link = "/about"
+    text = "Maria Tereza N. Oliveira"
+
+[[params.mainMenu]]
+    link = "/formação"
+    text = "Experiência acadêmica"
+    
+[[params.mainMenu]]
     link = "/posts"
-    text = "writing"
+    text = "Experiência profissional"
 
 [[params.mainMenu]]
     link = "/gallery"
-    text = "gallery"
+    text = "Contato"
 
-[[params.mainMenu]]
-    link = "/about"
-    text = "who is sam?"
+
     
