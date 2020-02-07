@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Maria Tereza N. Oliveira</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in Blog on Maria Tereza N. Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 08 Mar 2018 20:18:53 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coordenadora de franquias</title>
+      <link>/posts/long-form-post/</link>
+      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/posts/long-form-post/</guid>
+      <description>Empresa: Subway Systems do Brasil – Curitiba/Paraná Período: Junho/2016 – Janeiro/2018
+Responsável pelo atendimento aos franqueados Subway e o elo entre esses e a matriz. Assessoria e consultoria aos franqueados, incluindo mas não restrito a: liberação de equipamentos dos fornecedores para as franquias em construção ou relocação, execução de entrada de dados e processamento de royalties, pesquisa e resolução de inquéritos do franqueado/consumidor e/ou questões relativas ao departamento.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Maria Tereza N. Oliveira</title>
+    <link>/tags/code/</link>
+    <description>Recent content in Code on Maria Tereza N. Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 13 Feb 2018 13:56:12 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assistente de escritório</title>
+      <link>/posts/code-poetry/</link>
+      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      
+      <guid>/posts/code-poetry/</guid>
+      <description>Empresa: Subway Systems do Brasil – Curitiba/Paraná Período: Julho/2015 - Junho/2016
+Suporte administrativo geral ao time regional de Curitiba. Tarefas cotidianas de escritório relacionadas à área administrativa da empresa. Inclui prestar ajuda ao time de marketing, à coordenação, leasing, contabilidade e à gerência. Cópias e organizações de documentos, arquivamentos, atendimento telefônico, compras mensais para o escritório e pesquisas anuais junto aos franqueados da Subway.</description>
+    </item>
+    
+  </channel>
+</rss>

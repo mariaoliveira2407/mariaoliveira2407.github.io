@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Tereza N. Oliveira</title>
+    <link>/mariaoliveira2407.github.io/</link>
+    <description>Recent content on Maria Tereza N. Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 08 Mar 2018 20:18:53 -0500</lastBuildDate>
+    
+	<atom:link href="/mariaoliveira2407.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Coordenadora de franquias</title>
+      <link>/mariaoliveira2407.github.io/posts/long-form-post/</link>
+      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/posts/long-form-post/</guid>
+      <description>Empresa: Subway Systems do Brasil – Curitiba/Paraná Período: Junho/2016 – Janeiro/2018
+Responsável pelo atendimento aos franqueados Subway e o elo entre esses e a matriz. Assessoria e consultoria aos franqueados, incluindo mas não restrito a: liberação de equipamentos dos fornecedores para as franquias em construção ou relocação, execução de entrada de dados e processamento de royalties, pesquisa e resolução de inquéritos do franqueado/consumidor e/ou questões relativas ao departamento.</description>
+    </item>
+    
+    <item>
+      <title>Assistente de escritório</title>
+      <link>/mariaoliveira2407.github.io/posts/code-poetry/</link>
+      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/posts/code-poetry/</guid>
+      <description>Empresa: Subway Systems do Brasil – Curitiba/Paraná Período: Julho/2015 - Junho/2016
+Suporte administrativo geral ao time regional de Curitiba. Tarefas cotidianas de escritório relacionadas à área administrativa da empresa. Inclui prestar ajuda ao time de marketing, à coordenação, leasing, contabilidade e à gerência. Cópias e organizações de documentos, arquivamentos, atendimento telefônico, compras mensais para o escritório e pesquisas anuais junto aos franqueados da Subway.</description>
+    </item>
+    
+    <item>
+      <title>Graduação</title>
+      <link>/mariaoliveira2407.github.io/forma%C3%A7%C3%A3o/formacao/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/forma%C3%A7%C3%A3o/formacao/</guid>
+      <description>Curso: Estatística
+Ensino Superior Cursando
+Início: 02/2015
+Término: previsão - 07/2019
+UFPR – Universidade Federal do Paraná
+Centro Politécnico - Curitiba/PR</description>
+    </item>
+    
+    <item>
+      <title>Idiomas</title>
+      <link>/mariaoliveira2407.github.io/forma%C3%A7%C3%A3o/idiomas/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/forma%C3%A7%C3%A3o/idiomas/</guid>
+      <description>Belfast Institute – Belfast/Irlanda do Norte - BEC – Business English Certificate - Cambridge University
+2012 – Grade B.
+Belfast Institute – Belfast/Irlanda do Norte – First Certificate in English – ESOL Level 1 Certificate in ESOL
+International - Cambridge University
+2008 – Grade B.</description>
+    </item>
+    
+    <item>
+      <title>Informática</title>
+      <link>/mariaoliveira2407.github.io/forma%C3%A7%C3%A3o/informatica/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/forma%C3%A7%C3%A3o/informatica/</guid>
+      <description>R-Markdown – UFPR - 2017
+Excel Avançado – Udemy - 2017
+Latex - Udemy - 2015
+Curso de Digitação – Senac Curitiba – 1998\</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>/mariaoliveira2407.github.io/about/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/about/</guid>
+      <description>Maria Tereza Neves de Oliveira é graduanda em Estatística, atuando no momento em um projeto de pesquisa em desenvolvimento sustentável. Tem experiência acadêmica e profissional internacional, período em que viveu por 7 anos no Reino Unido. Seu objetivo é unir suas duas áreas de interesse, de forma a continuar as pesquisas e trabalhar nessa área.</description>
+    </item>
+    
+    <item>
+      <title>Analista de Helpdesk</title>
+      <link>/mariaoliveira2407.github.io/posts/dear-jane/</link>
+      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/posts/dear-jane/</guid>
+      <description>Empresa: HCL BPO Services - Belfast/Irlanda do Norte Período: Fevereiro/10 – Dezembro/13
+Atendimento a funcionários da empresa Cummins Brasil, auxiliando-os com problemas encontrados no software Lotus Notes da IBM, manutenção e reset de senhas e configuração de servidor.</description>
+    </item>
+    
+    <item>
+      <title>Formação e cursos</title>
+      <link>/mariaoliveira2407.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+  </channel>
+</rss>

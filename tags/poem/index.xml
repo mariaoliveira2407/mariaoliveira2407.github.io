@@ -1,32 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poem on Maria</title>
-    <link>https://mariaoliveira2407.github.io/tags/poem/</link>
-    <description>Recent content in Poem on Maria</description>
+    <title>poem on Maria Tereza N. Oliveira</title>
+    <link>/mariaoliveira2407.github.io/tags/poem/</link>
+    <description>Recent content in poem on Maria Tereza N. Oliveira</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 13:56:12 -0500</lastBuildDate>
+    <language>pt-br</language>
+    <lastBuildDate>Thu, 01 Feb 2018 12:35:11 -0500</lastBuildDate>
     
-	<atom:link href="https://mariaoliveira2407.github.io/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mariaoliveira2407.github.io/tags/poem/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Code Poetry</title>
-      <link>https://mariaoliveira2407.github.io/posts/code-poetry/</link>
-      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
-      
-      <guid>https://mariaoliveira2407.github.io/posts/code-poetry/</guid>
-      <description>Pseudo code poem.
-if (this === that): try write_new_poem() except not_a_poet as e: return </description>
-    </item>
     
     <item>
       <title>A Poem</title>
-      <link>https://mariaoliveira2407.github.io/posts/a-poem/</link>
+      <link>/mariaoliveira2407.github.io/posts/a-poem/</link>
       <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
       
-      <guid>https://mariaoliveira2407.github.io/posts/a-poem/</guid>
+      <guid>/mariaoliveira2407.github.io/posts/a-poem/</guid>
       <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
 Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
 The immortals slumber&amp;rsquo;d on their thrones above;

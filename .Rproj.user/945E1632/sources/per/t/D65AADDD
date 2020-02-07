@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581037114006.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1505092162",
+    "id" : "D65AADDD",
+    "lastKnownWriteTime" : 1581042584,
+    "last_content_update" : 1581042584685,
+    "path" : "~/Estatística/períodos/7/Pesquisa Reproduzível/sabatina 6/site/mariaoliveira2407.github.io/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "0,12",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

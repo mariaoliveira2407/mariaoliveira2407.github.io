@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Maria Tereza N. Oliveira</title>
@@ -6,13 +6,40 @@
     <description>Recent content in Tags on Maria Tereza N. Oliveira</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2018 12:32:12 -0500</lastBuildDate>
     
 	<atom:link href="/mariaoliveira2407.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Plot</title>
+      <title>classic</title>
+      <link>/mariaoliveira2407.github.io/tags/classic/</link>
+      <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/tags/classic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>/mariaoliveira2407.github.io/tags/story/</link>
+      <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poem</title>
+      <link>/mariaoliveira2407.github.io/tags/poem/</link>
+      <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
+      
+      <guid>/mariaoliveira2407.github.io/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
       <link>/mariaoliveira2407.github.io/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
@@ -30,7 +57,7 @@
     </item>
     
     <item>
-      <title>Regression</title>
+      <title>regression</title>
       <link>/mariaoliveira2407.github.io/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       

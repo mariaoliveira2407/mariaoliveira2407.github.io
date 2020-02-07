@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Classic on Maria Tereza N. Oliveira</title>
+    <link>/tags/classic/</link>
+    <description>Recent content in Classic on Maria Tereza N. Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Sun, 11 Feb 2018 12:34:41 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/classic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analista de Helpdesk</title>
+      <link>/posts/dear-jane/</link>
+      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      
+      <guid>/posts/dear-jane/</guid>
+      <description>Empresa: HCL BPO Services - Belfast/Irlanda do Norte Período: Fevereiro/10 – Dezembro/13
+Atendimento a funcionários da empresa Cummins Brasil, auxiliando-os com problemas encontrados no software Lotus Notes da IBM, manutenção e reset de senhas e configuração de servidor.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,10 +1,11 @@
-publishDir=""
+publishDir="/"
 baseurl                 = "mariaoliveira2407.github.io/"               # Your domain name. Must end with "/"
 languageCode            = "pt-br"
 title                   = "Maria Tereza N. Oliveira"
 theme = "hugo-theme-sam"
 pygmentsStyle           = "manni"                     # https://help.farbox.com/pygments.html
 pygmentsCodefences      = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
 
 [params]
